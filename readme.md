@@ -1,7 +1,7 @@
 # No NATO Reporting Names
 ## Sea Power Mod
 
-This mod aims to eventually remove most NATO reporting names from the game Sea Power and replace them with the proper Soviet designations.
+This mod aims to replace most NATO reporting names from the game Sea Power with the proper Soviet designations.
 
 ## PROGRESS
 > Weapons:
