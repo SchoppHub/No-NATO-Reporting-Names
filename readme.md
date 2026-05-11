@@ -15,3 +15,5 @@ In Progress
 > Ship Classes:
 
 In Assessment
+
+> Works for Sea Power version: 0.7.10
