@@ -13,4 +13,8 @@ In Progress
 > Ship Classes:
 In Assessment
 
+> Localization:
+soon(TM)
+
+
 > Works for Sea Power version: 0.7.10
