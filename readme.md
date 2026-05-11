@@ -5,15 +5,12 @@ This mod aims to eventually remove most NATO reporting names from the game Sea P
 
 ## PROGRESS
 > Weapons:
-
 Done
 
 > Sensors and systems:
-
 In Progress
 
 > Ship Classes:
-
 In Assessment
 
 > Works for Sea Power version: 0.7.10
